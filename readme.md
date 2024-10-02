@@ -1,4 +1,4 @@
-# CS544-Game-Protocol-using-Quic
+# Game-Protocol-using-Quic
 
 This project implements a game protocol using QUIC (Quick UDP Internet Connections) in Python. It enables reliable game state synchronization, basic player authentication, a chat system, disconnection and reconnection handling, and error handling.
 
