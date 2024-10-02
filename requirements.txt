@@ -1,0 +1,13 @@
+pip install aioquic==1.0.0
+pip install asyncio==3.4.3
+pip install attrs==23.2.0
+pip install certifi==2024.2.2
+pip install cffi==1.16.0
+pip install cryptography==42.0.5
+pip install dnslib==0.9.24
+pip install pyasn1==0.5.1
+pip install pyasn1-modules==0.3.0
+pip install pycparser==2.21
+pip install pylsqpack==0.3.18
+pip install pyOpenSSL==24.1.0
+pip install service-identity==24.1.0
